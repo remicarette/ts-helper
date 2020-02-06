@@ -19,7 +19,7 @@ touch src/index.ts
 
 open the `index.ts` file and write some Typescript code then run :
 ```console
-tsc src/index.ts
+tsc -w src/index.ts
 ```
 
 And It should create a `index.js` into the `build` directory
